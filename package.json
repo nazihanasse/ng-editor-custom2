@@ -1,0 +1,19 @@
+{
+  "name": "ng-editor-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "karma.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazihanasse/ng-editor-custom2.git"
+  },
+  "author": "NAZIH ANASSE <nazih.anasse@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nazihanasse/ng-editor-custom2/issues"
+  },
+  "homepage": "https://github.com/nazihanasse/ng-editor-custom2#readme"
+}
